@@ -1,0 +1,1 @@
+This repository demonstrates a common error in PHP file handling and provides a solution.  The `bug.php` file shows improper error handling when opening a file, while `bugSolution.php` presents a robust solution.
